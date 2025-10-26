@@ -133,6 +133,17 @@
       "pypi": "sphinx-bootstrap-theme"
     },
     {
+      "config": {
+        "html_theme": "breeze",
+        "html_theme_options": {
+          "header_tabs": false
+        }
+      },
+      "display": "Breeze",
+      "documentation": "https://sphinx-breeze-theme.readthedocs.io/en/latest/",
+      "pypi": "sphinx-breeze-theme"
+    },
+    {
       "config": "cloud",
       "display": "Cloud",
       "pypi": "cloud-sptheme"
