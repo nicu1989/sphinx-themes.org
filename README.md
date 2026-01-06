@@ -21,3 +21,4 @@ This project is made possible by the work of many [contributors].
 [contributors]: https://github.com/sphinx-themes/sphinx-themes.org/graphs/contributors
 [@shirou]: https://github.com/shirou
 [@pradyunsg]: https://github.com/pradyunsg
+trigger
