@@ -13,30 +13,6 @@
       "pypi": "sphinx-rtd-theme"
     },
     {
-      "config": "furo",
-      "display": "Furo",
-      "documentation": "https://pradyunsg.me/furo/",
-      "pypi": "furo"
-    },
-    {
-      "config": "shibuya",
-      "display": "Shibuya",
-      "documentation": "https://shibuya.lepture.com/",
-      "pypi": "shibuya"
-    },
-    {
-      "config": "sphinx_book_theme",
-      "display": "Book",
-      "documentation": "https://sphinx-book-theme.readthedocs.io/en/latest/",
-      "pypi": "sphinx-book-theme"
-    },
-    {
-      "config": "pydata_sphinx_theme",
-      "display": "PyData",
-      "documentation": "https://pydata-sphinx-theme.readthedocs.io/en/latest/",
-      "pypi": "pydata-sphinx-theme"
-    },
-    {
       "config": "press",
       "display": "Press",
       "documentation": "https://schettino72.github.io/sphinx_press_site/",
